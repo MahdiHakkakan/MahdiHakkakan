@@ -1,6 +1,6 @@
 # HI , I AM MAHDI
 
-** A developer that intrested in Machine Learning, AI, Math and love learning new things
+A developer that intrested in Machine Learning, AI, Math and love learning new things
 ### 👨‍💻 About Me  
 - 🔭 I’m currently exploring **RAG systems** and **AI for real-world applications**    
 - 🎯 My goal: Build AI tools that make knowledge accessible and useful  
