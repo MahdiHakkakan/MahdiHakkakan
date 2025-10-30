@@ -19,12 +19,12 @@ A developer that intrested in Machine Learning, AI, Math and love learning new t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 🚀 Featured Projects  
-- 💻 [python web scraping](https://github.com/MahdiHakkakan/python-web-scraping):  
+- 📓 [Life Guard](https://github.com/MahdiHakkakan/lifeGuard):
+  RAG system on life guard notebooks with use OpenAI api.
+- 💻 [Python Web Scraping](https://github.com/MahdiHakkakan/python-web-scraping):  
   My first project that gave me more confident 
 - 🤖 [Quiz Angel](https://github.com/MahdiHakkakan/QuizAngel):  
   First project that I tried to learn RAG systems  
 - 🎥 [Movie Recommender](https://github.com/MahdiHakkakan/Chamber-of-Secrets):  
   Personalized movie recommendations using collaborative filtering.
-- 📓 [life Guard](https://github.com/MahdiHakkakan/lifeGuard):
-  RAG system on life guard notebooks
 
