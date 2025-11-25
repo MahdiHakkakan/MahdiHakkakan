@@ -8,8 +8,6 @@ A developer that intrested in Machine Learning, AI, Math and love learning new t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiHakkakan&layout=compact&theme=radical)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiHakkakan&show_icons=true&theme=radical)  
-
 
 ### 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
