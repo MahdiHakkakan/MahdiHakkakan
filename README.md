@@ -1,28 +1,55 @@
-# HI , I AM MAHDI
+# Hi, I'm Mahdi 👋
 
-A developer that intrested in Machine Learning, AI, Math and love learning new things
+Software Developer passionate about AI, Backend Engineering, Infrastructure and Casual chess player and strategic thinking enthusiast.
+
+Currently working with Laravel, Go, Python, Docker, and modern backend technologies while exploring machine learning and intelligent systems.
 ### 👨‍💻 About Me  
-- 🔭 I’m currently exploring **RAG systems** and **AI for real-world applications**    
-- 🎯 My goal: Build AI tools that make knowledge accessible and useful  
+- 🎯 My goal: Build scalable software, intelligent systems, and reliable infrastructure that solve real-world problems.
+- 🎓 Computer Scientist
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌐 Backend Developer (Laravel, Go)
+- 🐳 Learning Cloud, Docker, and Kubernetes
+- 🖧 Exploring Networking and Infrastructure
+- 📚 Always learning new technologies
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiHakkakan&layout=compact&theme=radical)
+### 🔭 Current Focus
 
+- Backend Development with Laravel and Go
+- AI-powered Applications
+- Networking & Infrastructure
+- Docker and Kubernetes
 
+### 🛠️ Backend & Infrastructure
 
-### 🛠️ Tech Stack  
+![PHP](https://img.shields.io/badge/Php-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/Mysql-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ### 🚀 Featured Projects  
 - 📓 [Life Guard](https://github.com/MahdiHakkakan/lifeGuard):
-  RAG system on life guard notebooks with use OpenAI api
+  RAG-based knowledge assistant built on lifeguard manuals using OpenAI APIs.
 - 💻 [Python Web Scraping](https://github.com/MahdiHakkakan/python-web-scraping):  
-  My first project that gave me more confident 
+  Web scraping project for collecting and processing data from websites.
 - 🤖 [Quiz Angel](https://github.com/MahdiHakkakan/QuizAngel):  
-  First project that I tried to learn RAG systems  
+  Educational project for learning Retrieval-Augmented Generation (RAG).
 - 🎥 [Movie Recommender](https://github.com/MahdiHakkakan/Chamber-of-Secrets):  
   Personalized movie recommendations using collaborative filtering
+
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MahdiHakkakan)
+
 
